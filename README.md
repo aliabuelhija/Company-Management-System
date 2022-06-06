@@ -5,11 +5,18 @@ Created a customizable work management platform, designed to help teams and orga
 Tools – Java, JavaFX, OOP, MVC Architecture.
 # Actions that can be performed on the menu:
 1-Set bouns
+
 2- Add Department
+
 3- Add Role
+
 4- Add Empolyee
+
 5- Show Company Details
+
 6- Change Role Working Method
+
 7- Change Department Working method
+
 8- Show Gain&Loss
 
