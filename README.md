@@ -3,6 +3,8 @@
 # Description
 Created a customizable work management platform, designed to help teams and organizations with operational efficiency. By visualizing different data, that shows the details of every employee and manager. Such as a summary of their working hours ,their role and their wages. 
 Tools – Java, JavaFX, OOP, MVC Architecture.
+![image](https://user-images.githubusercontent.com/100870794/172404423-a5087cce-dadb-4d89-afa7-f67dd0e8ac47.png)
+
 # Actions that can be performed on the menu:
 1-Set bouns
 
