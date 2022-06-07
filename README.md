@@ -20,3 +20,7 @@ Tools – Java, JavaFX, OOP, MVC Architecture.
 
 8- Show Gain&Loss
 
+
+
+https://user-images.githubusercontent.com/100870794/172268341-a7b298e2-38fd-4c30-9297-2cc811199db4.mp4
+
